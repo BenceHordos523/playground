@@ -104,6 +104,12 @@ body {
   flex-basis: 50%;
 }
 
+.fullscreen {
+  cursor: pointer;
+  flex:1;
+  max-width: 30px;
+}
+
 /* unholy css to style input type="range" */
 
 input[type=range] {
